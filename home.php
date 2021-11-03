@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Aspect Ratio Calculator</title>
+        <title>Launch Menu</title>
         <!-- Google Fonts-->
         <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
@@ -14,22 +14,11 @@
     <body>
         <div class="container">
             <h2>
-                <span>Aspect Ratio</span>
-                Calculator
+                <span>Menu for</span>
+                Today
             </h2>
             <div class="wrapper-1">
-                <input type="number" id="ratio-width" value="16" />
-                <input type="number" id="ratio-height" value="9" />
-            </div>
-            <div class="box">
-                <div class="wrapper-2">
-                    <label for="width">Width:</label>
-                    <input type="number" id="width" value="1280" />
-                </div>
-                <div class="wrapper-3">
-                    <label for="height">Height:</label>
-                    <input type="number" id="height" value="720" />
-                </div>
+                Hello Today
             </div>
         </div>
         <!-- Script -->
