@@ -13,7 +13,7 @@
 	}
     
   
-    if(isset($_POST['send'])){
+    if(isset($_POST['send'])){ 
         $countNum = $_POST['num'];
         $number = $_POST['number'];
         $seenOrder = array();
